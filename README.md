@@ -17,11 +17,26 @@
 	<dt>Define Idea</dt>
 	<dd>Determine platform purpose and target users.</dd>
 </dl>
+<dl>
+	<dt>Research & Plan</dt>
+	<dd>Analyze competitors, list features, and plan monetization.</dd>
+</dl>
+<dl>
+	<dt>Design & Prototype</dt>
+	<dd>Create wireframes, design UI/UX, and develop prototypes.</dd>
+</dl>
+<dl>
+	<dt>Develop & Test</dt>
+	<dd>Build frontend, backend, APIs, and conduct thorough testing.</dd>
+</dl>
+<dl>
+	<dt>Deploy, Launch & Improve</dt>
+	<dd>Host the platform, launch, gather user feedback, and continuously update and enhance the Application. </dd>
+</dl>
 
-<h4>Research & Plan</h4> <p>Analyze competitors, list features, and plan monetization.</p>
-<h4>Design & Prototype</h4> <p> Create wireframes, design UI/UX, and develop prototypes.</p>
-<h4> Develop & Test</h4><p>Build frontend, backend, APIs, and conduct thorough testing.</p> 
-<h4>Deploy, Launch & Improve</h4><p>Host the platform, launch, gather user feedback, and continuously update and enhance the Application. </p>    
+
+
+
 
 
 
