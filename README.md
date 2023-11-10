@@ -1,4 +1,4 @@
-<h1>SOCIAL MEDIA WEB BASED APPLICATION</h1>
+<h1 style="text-decoration:underline;">SOCIAL MEDIA WEB BASED APPLICATION</h1>
 
 <h3>Abstract</h3>
 <p>This project aims to create a dynamic social media platform connecting users and fostering communities. We'll focus on user experience, thorough research, and strategic planning to build a seamless website and application. With user feedback guiding us, we'll ensure continuous improvements, making the platform engaging and user-friendly.
