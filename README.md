@@ -12,8 +12,12 @@
 	<li>EXPRESS JS</li>
 </ul>
 
-<h3>Descriptio</h3>
- <h4>Define Idea </h4> <p>Determine platform purpose and target users.</p>
+<h3>Description</h3>
+<dl>
+	<dt>Define Idea</dt>
+	<dd>Determine platform purpose and target users.</dd>
+</dl>
+
 <h4>Research & Plan</h4> <p>Analyze competitors, list features, and plan monetization.</p>
 <h4>Design & Prototype</h4> <p> Create wireframes, design UI/UX, and develop prototypes.</p>
 <h4> Develop & Test</h4><p>Build frontend, backend, APIs, and conduct thorough testing.</p> 
