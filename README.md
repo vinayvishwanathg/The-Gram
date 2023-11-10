@@ -12,12 +12,12 @@
 	<li>EXPRESS JS</li>
 </ul>
 
-<h3>Step-Wise Descriptio</h3>
-1. Define Idea : Determine platform purpose and target users.
-2. Research & Plan: Analyze competitors, list features, and plan monetization.
-3. Design & Prototype: Create wireframes, design UI/UX, and develop prototypes.
-4. Develop & Test: Build frontend, backend, APIs, and conduct thorough testing.
-5. Deploy, Launch & Improve: Host the platform, launch, gather user feedback, and continuously update and enhance the Application.   
+<h3>Descriptio</h3>
+ <h4>Define Idea </h4> <p>Determine platform purpose and target users.</p>
+<h4>Research & Plan</h4> <p>Analyze competitors, list features, and plan monetization.</p>
+<h4>Design & Prototype</h4> <p> Create wireframes, design UI/UX, and develop prototypes.</p>
+<h4> Develop & Test</h4><p>Build frontend, backend, APIs, and conduct thorough testing.</p> 
+<h4>Deploy, Launch & Improve</h4><p>Host the platform, launch, gather user feedback, and continuously update and enhance the Application. </p>    
 
 
 
